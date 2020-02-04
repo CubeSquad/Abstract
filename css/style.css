@@ -151,7 +151,7 @@ p{
 
 .navbar-custom {
   background-color: #282828;
-    padding: 15px 0px;
+    padding: 5px 0px;
     border-radius: 0px;
     z-index: 999;
     margin-bottom: 0px;
@@ -230,7 +230,7 @@ p{
 
 .nav-sticky.navbar-custom {
     margin-top: 0px;
-    padding: 15px 0px;
+    padding: 5px 0px;
     background-color: #282828;
     box-shadow: 0 10px 33px rgba(0, 0, 0, .1);
     color: #000 !important;
